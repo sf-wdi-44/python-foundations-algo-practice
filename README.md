@@ -9,7 +9,6 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Two-part lesson, outlined below | [Part One](python-dtypes.ipynb), [Part Two](python-controlflow.ipynb)|
-| Solution  | Solution code for blanked-out lesson samples | [Here](./solution-code/python-dtypes-controlflow-solution.ipynb) |
 | Source Materials | Original files used to create this lesson | [Here](./assets/originals/) |
 <!--| Extra Materials | Bonus review or practice materials provided by instructors | [Here](./assets/bonus/) |-->
 
